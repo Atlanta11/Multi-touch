@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Multi-touch "</string>
+    <string name="textView2">Touch Two Status</string>
+    <string name="textView3">Touch One Status</string>
+</resources>
